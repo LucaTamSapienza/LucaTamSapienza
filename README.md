@@ -19,8 +19,8 @@ hobbies: ["Gym", "Rubik's cube", "IoT"]
 Currently, I'm immersing myself in the world of Artificial Intelligence, contributing to the [OpenVINO Toolkit](https://github.com/openvinotoolkit/openvino). Simultaneously, I'm exploring the realms of Machine Learning through self-study sessions.
 
 ## 📬 Let's Connect!
-- **LinkedIn:** [Luca Tam](https://www.linkedin.com/in/lucatam/)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Luca Tam](https://www.linkedin.com/in/luca-tam-a1b0b9285/)
+- **Email:** luca.tam04@gmail.com
 
 ### 👯‍♂️ Shared Interests
 Feel free to reach out if you share similar interests! Whether it's programming languages, AI, or the thrill of continuous learning, I'm always open to connecting with like-minded individuals.
