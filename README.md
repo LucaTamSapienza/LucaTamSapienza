@@ -2,14 +2,10 @@
 name: Luca Tam
 located_in: Rome, Italy
 education: Bachelor's in Computer Engineering (In Progress)
-University: Sapienza University Of Rome
-fields_of_interests: ["Machine Learning", "inference", "Computational Geometry - CGAL", "Neural Network"]
+fields_of_interests: ["Machine Learning", "inference", "Computational Geometry - CGAL", "Neural Network", "ns3"]
 currently_learning: ["JavaScript", "Julia"]
 hobbies: ["Gym", "Rubik's cube", "IoT"]
 ```
-
-## 💻 Skills
-- Programming Languages: C, C++, Java, Python, and Julia.
 
 ## 🎓 Education
 - **Sapienza University of Rome**
