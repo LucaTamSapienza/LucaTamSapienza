@@ -26,6 +26,7 @@ hobbies: ["Gym", "Rubik's cube", "IoT"]
 Currently, I'm immersing myself in the world of Artificial Intelligence, contributing to the [OpenVINO Toolkit](https://github.com/openvinotoolkit/openvino). Simultaneously, I'm exploring the realms of Machine Learning through self-study sessions.
 
 ## 📬 Let's Connect!
+- **discord:** [Famezz]() 
 - **LinkedIn:** [Luca Tam](https://www.linkedin.com/in/luca-tam-a1b0b9285/)
 - **Email:** luca.tam04@gmail.com
 
