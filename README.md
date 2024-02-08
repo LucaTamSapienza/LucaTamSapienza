@@ -27,7 +27,6 @@ Currently, I'm immersing myself in the world of Artificial Intelligence, contrib
 
 ## 📬 Let's Connect!
 - **discord:** [Famezz]() 
-- **LinkedIn:** [Luca Tam](https://www.linkedin.com/in/luca-tam-a1b0b9285/)
 - **Email:** luca.tam04@gmail.com
 
 ### 👯‍♂️ Shared Interests
