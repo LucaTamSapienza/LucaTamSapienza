@@ -9,7 +9,7 @@
 
 ###
 
-```yaml
+```yam
 name: Luca Tam
 located_in: Rome, Italy
 fields_of_interests: ["Machine Learning", "Computational Geometry - CGAL", "Neural Network", "ns3"]
