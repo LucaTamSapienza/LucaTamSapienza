@@ -30,4 +30,4 @@ Currently, I'm immersing myself in the world of Artificial Intelligence, contrib
 - **Email:** luca.tam04@gmail.com
 
 ### 👯‍♂️ Shared Interests
-Feel free to reach out if you share similar interests! Whether it's programming languages, AI, or the thrill of continuous learning, I'm always open to connecting with like-minded individuals
+Feel free to reach out if you share similar interests! Whether it's programming languages, AI, or the thrill of continuous learning, I'm always open to connecting with like-minded individuals.
