@@ -23,7 +23,7 @@ hobbies: ["Gym", "Rubik's cube", "IoT"]
   - *Bachelor's in Computer Engineering (In Progress)*
 
 ## 🚀 Current Focus
-Currently, I'm immersing myself in the world of Artificial Intelligence, contributing to the [OpenVINO Toolkit](https://github.com/openvinotoolkit/openvino). Simultaneously, I'm exploring the realms of Machine Learning through self-study sessions
+Currently, I'm immersing myself in the world of Artificial Intelligence, contributing to the [OpenVINO Toolkit](https://github.com/openvinotoolkit/openvino). Simultaneously, I'm exploring the realms of Machine Learning through self-study sessions.
 
 ## 📬 Let's Connect!
 - **discord:** [Famezz]() 
