@@ -15,7 +15,7 @@ located_in: Rome, Italy
 fields_of_interests: ["Machine Learning", "Computational Geometry - CGAL", "Neural Network", "ns3"]
 favorite programming languages: [python, c, c++, Java]
 currently_learning: ["ML", "NN", "DL", "AI"]
-hobbies: ["Gym", "Rubik's cube", "IoT"]
+hobbies: ["Gym", "IoT"]
 ```
 
 ## 🎓 Education
