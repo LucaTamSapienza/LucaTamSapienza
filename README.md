@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luca, and I'm a student in computer engineering at Sapienza, from 🇮🇹</h2>
+<h2 align="left">Hi! My name is Luca, and I'm a student in computer engineering at Sapienza, from 🇮🇹</h2>
 
 ###
 
