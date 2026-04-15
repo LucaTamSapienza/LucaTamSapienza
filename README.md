@@ -20,7 +20,8 @@ hobbies: ["Gym", "IoT"]
 
 ## 🎓 Education
 - **Sapienza University of Rome**
-  - *Bachelor's in Computer Engineering (In Progress)*
+  - *Bachelor's in Computer Engineering* ✅
+  - *Master in Engineering in Computer Science and Artificial Intelligence*
 
 ## 🚀 Current Focus
 Currently, I'm immersing myself in the world of Artificial Intelligence, contributing to the [OpenVINO Toolkit](https://github.com/openvinotoolkit/openvino). Simultaneously, I'm exploring the realms of Machine Learning through self-study sessions.
