@@ -3,13 +3,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaTamSapienza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div> -->
 
-```yaml
-apiVersion: human/v1
-kind: Engineer
+# whoami
+## > Luca Tam - *22yo* - Italy - ...
 
+```yaml
 metadata:
   name: Luca Tam
-  location: Rome, Italy  # 🇮🇹
+  location: Rome, Italy
   role: AI Engineer
   labels:
     - open-source-enthusiast
@@ -33,7 +33,7 @@ education:
   - degree: BSc — Computer Engineering
     university: Sapienza University of Rome
     grade: 110/110 with honors
-    status: completed  # ✅
+    status: completed
 
 work:
   - company: Martes AI
